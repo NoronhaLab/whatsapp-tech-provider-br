@@ -64,7 +64,7 @@ Use `references/textos-app-review.md`. Adapte os modelos ao produto real do usu�
 
 ## Depois do envio
 
-Explique o que esperar: o e-mail "análise pendente" chega logo e a resposta costuma levar alguns dias úteis. Durante a análise, o usuário não deve mudar o painel nem a senha do revisor. Depois da aprovação: publicar o app, testar uma mensagem real no webhook, implementar o Embedded Signup e começar um piloto pequeno.
+Explique o que esperar: o e-mail "análise pendente" chega logo e a resposta levou cerca de 14 dias no caso real. Durante a análise, o usuário não deve mudar o painel nem a senha do revisor. Depois da aprovação: publicar o app, testar uma mensagem real no webhook, implementar o Embedded Signup e começar um piloto pequeno.
 
 ## Formato das respostas
 
