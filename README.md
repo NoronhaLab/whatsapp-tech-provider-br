@@ -1,6 +1,6 @@
 # WhatsApp Tech Provider no Brasil
 
-Roteiro e skill para o Claude que levam uma empresa brasileira do zero até a App Review enviada como **Tech Provider do WhatsApp** na Meta (WhatsApp Cloud API).
+Roteiro e skill para o Claude que levam uma empresa brasileira do zero até a aprovação como **Tech Provider do WhatsApp** na Meta (WhatsApp Cloud API).
 
 Baseado num processo real feito em outubro de 2026 pela [Noronha Lab](https://noronhalab.com.br), com os erros que travaram o caminho e como resolver cada um.
 
@@ -26,7 +26,7 @@ Baseado num processo real feito em outubro de 2026 pela [Noronha Lab](https://no
 6. Chamadas de teste de API e 2 vídeos
 7. Preenchimento e envio da App Review
 
-Tempo estimado: 2 a 3 dias, a maior parte esperando verificações e as 24 horas após as chamadas de teste.
+Tempo estimado: 2 a 3 dias de preparação mais cerca de 14 dias de análise da Meta (nosso caso: enviado em 23/10/2026, aprovado em 07/11/2026).
 
 ## Como usar a skill
 
